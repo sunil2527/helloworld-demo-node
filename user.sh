@@ -5,3 +5,4 @@ POLICY_NAME="${POLICY_NAME}"
 create_access_keys="${create_access_keys}"
 
 echo $GROUPNAME
+echo hello world
